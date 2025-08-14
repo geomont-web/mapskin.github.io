@@ -1,10 +1,10 @@
-# [mapsk.in](https://cdn.staticdelivr.com/gh/geomont-web/mapskin.github.io/master/index.html)
+# [mapsk.in](https://cdn.staticdelivr.com/gh/geomont-web/mapskin.github.io/master/)
 
 ## Home of the geospatial web font
 
 This is the official website for the mapskin geospatial web font project, created and maintained by Nicolas Bozon.
 
-:copyright: Copyright © 2016 <a href="https://cdn.staticdelivr.com/gh/geomont-web/mapskin.github.io/master/index.html" target="_blank">mapskin</a> - <a href="http://cartogenic.com" target="_blank">Nicolas Bozon</a>.
+:copyright: Copyright © 2016 <a href="https://cdn.staticdelivr.com/gh/geomont-web/mapskin.github.io/master/" target="_blank">mapskin</a> - <a href="http://cartogenic.com" target="_blank">Nicolas Bozon</a>.
 
 ### Contact
 
@@ -16,9 +16,9 @@ This is the official website for the mapskin geospatial web font project, create
 
 ### Credits
 
-The <a href="https://cdn.staticdelivr.com/gh/geomont-web/mapskin.github.io/master/index.html" target="_blank">mapsk.in</a> website is built using the following resources:
+The <a href="https://cdn.staticdelivr.com/gh/geomont-web/mapskin.github.io/master/" target="_blank">mapsk.in</a> website is built using the following resources:
 
-  * mapskin ([mapsk.in](https://cdn.staticdelivr.com/gh/geomont-web/mapskin.github.io/master/index.html))
+  * mapskin ([mapsk.in](https://cdn.staticdelivr.com/gh/geomont-web/mapskin.github.io/master/))
   * Font Awesome ([fontawesome.io](http://fontawesome.io))
   * OpenLayers ([openlayers.org](http://openlayers.org))
   * Data © OpenStreetMap contributors ([openstreetmap.org](www.openstreetmap.org/copyright))
